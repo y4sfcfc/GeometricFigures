@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\bin\Debug\net8.0\GeometricFigures.exe
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\bin\Debug\net8.0\GeometricFigures.deps.json
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\bin\Debug\net8.0\GeometricFigures.runtimeconfig.json
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\bin\Debug\net8.0\GeometricFigures.dll
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\bin\Debug\net8.0\GeometricFigures.pdb
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.dll
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\obj\Debug\net8.0\refint\GeometricFigures.dll
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.pdb
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB501Yusif\GeometricFigures\GeometricFigures\obj\Debug\net8.0\ref\GeometricFigures.dll
